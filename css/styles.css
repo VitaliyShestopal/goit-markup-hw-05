@@ -254,6 +254,10 @@ address {
     background-color: #404bbf;
 }
 
+.item-work {
+    margin-bottom: 8px;
+}
+
 .team-section {
     padding: 120px 0;
 }
@@ -642,6 +646,9 @@ p {
     background-color: transparent;
     padding-left: 38px;
     padding-right: 16px;
+    font-size: 12px;
+    line-height: 2;
+    letter-spacing: 0.04em;
     outline: transparent;
     transition: border 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
